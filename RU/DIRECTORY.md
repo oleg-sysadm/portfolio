@@ -4,5 +4,5 @@
 
 <description>
  <summary>gif</summary>
- ![](/FILES/gif1.gif)
+ ![Собака](/FILES/gif1.gif)
 </description>
